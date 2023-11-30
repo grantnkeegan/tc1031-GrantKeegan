@@ -4,6 +4,7 @@ Link de la solución en LeetCode: https://leetcode.com/submissions/detail/110779
 
 Link del video en YouTube: https://www.youtube.com/watch?v=l2AyAuhtn3U
 
+...
 
 Ejercicio 2 | Estructuras de Datos Lineales | Leetcode 206. Reverse Linked List
 
@@ -11,6 +12,7 @@ Link de la solución en LeetCode: https://leetcode.com/submissions/detail/110903
 
 Link del video en YouTube: https://www.youtube.com/watch?v=9kvpYKuFy24
 
+...
 
 Ejercicio 3 | Estructuras de Datos No Lineales | Leetcode 404. Sum of Left Leaves
 
