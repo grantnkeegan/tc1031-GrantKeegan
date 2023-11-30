@@ -1,0 +1,12 @@
+La opción catalogada es The Batman, es una película, su género es superhéroe, salió en el año 2022, su duración es de 176 minutos, su franquicia es DC comics, su calificación es de 88, y su director es Matt Reeves.
+
+La opción catalogada es Schindler's List, es una película, su género es drama histórico, salió en el año 1993, su duración es de 195 minutos, su franquicia es sin franquicia, su calificación es de 95, y su director es Stephen Spielberg.
+
+La opción catalogada es Your Name, es una película, su género es anime, salió en el año 2016, su duración es de 106 minutos, su franquicia es Makoto Shinkai collection, su calificación es de 100, y su director es James Cameron.
+
+La opción catalogada es Titanic, es una película, su género es drama, salió en el año 1997, su duración es de 194 minutos, su franquicia es sin franquicia, su calificación es de 92, y su director es .
+
+La opción catalogada es Iron Man, es una película, su género es superhéroe, salió en el año 2008, su duración es de 126 minutos, su franquicia es Marvel Cinematic Universe, su calificación es de 90, y su director es Jon Favreau.
+
+La opción catalogada es Monsters Inc., es una película, su género es animada, salió en el año 2001, su duración es de 92 minutos, su franquicia es Pixar Collection, su calificación es de 88, y su director es Pete Docter.
+

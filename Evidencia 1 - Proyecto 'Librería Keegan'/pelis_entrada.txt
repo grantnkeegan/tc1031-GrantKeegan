@@ -1,0 +1,48 @@
+película
+The Batman
+2005
+superhéroe
+176
+DC comics
+88
+Matt Reeves
+película
+Schindler's List
+1954
+drama histórico
+195
+sin franquicia
+95
+Stephen Spielberg
+película
+Your Name
+2023
+anime
+106
+Makoto Shinkai collection
+100
+Makoto Shinkai
+película
+Titanic
+1934
+drama
+194
+sin franquicia
+92
+James Cameron
+película
+Iron Man
+2030
+superhéroe
+126
+Marvel Cinematic Universe
+90
+Jon Favreau
+película
+Monsters Inc.
+2013
+animada
+92
+Pixar Collection
+88
+Pete Docter
