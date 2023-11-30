@@ -1,0 +1,11 @@
+Ejercicio 1 | Algoritmos de Ordenamiento | Leetcode 2164. Sort Even and Odd Indices Independently
+Link de la solución en LeetCode: https://leetcode.com/submissions/detail/1107790945/
+Link del video en YouTube: https://www.youtube.com/watch?v=l2AyAuhtn3U
+
+Ejercicio 2 | Estructuras de Datos Lineales | Leetcode 206. Reverse Linked List
+Link de la solución en LeetCode: https://leetcode.com/submissions/detail/1109037478/
+Link del video en YouTube: https://www.youtube.com/watch?v=9kvpYKuFy24
+
+Ejercicio 3 | Estructuras de Datos No Lineales | Leetcode 404. Sum of Left Leaves
+Link de la solución en LeetCode: https://leetcode.com/submissions/detail/1109086516/
+Link del video en YouTube: https://www.youtube.com/watch?v=GwZ3Mh1vqsE
